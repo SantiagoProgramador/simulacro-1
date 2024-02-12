@@ -1,0 +1,57 @@
+{
+  "news": [
+    {
+      "Nombre": "Cierto artista australianoo",
+      "Imagen": "https://www.shutterstock.com/image-photo/fresh-organic-carrot-isolated-on-260nw-1918663397.jpg",
+      "Categoria": "Arte",
+      "Descripcion": "D:",
+      "id": "654c"
+    },
+    {
+      "id": "40a9",
+      "Nombre": "pepe",
+      "Imagen": "https://img.freepik.com/fotos-premium/papa-entera-aislada-vista-superior_88281-2131.jpg",
+      "Categoria": "Lenguaje",
+      "Descripcion": "pepe"
+    },
+    {
+      "id": "afdb",
+      "Nombre": "TERMINAMOS EL SIMULACROOOOOO",
+      "Imagen": "",
+      "Categoria": "Arte",
+      "Descripcion": "eeeeeeeeeeeeeeeeeeeeeeeaaaaaaaaaaaaaseeeeeeeeeeeeeeeeee",
+      "NombreAutor": "tatiana",
+      "Fecha": "2024-09-02"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1e8c",
+      "Nombre": "Tecnología",
+      "Descripcion": "Innovación"
+    },
+    {
+      "id": "30df",
+      "Nombre": "Arte",
+      "Descripcion": "Artista australiano durante el año 1905"
+    },
+    {
+      "id": "2832",
+      "Nombre": "Ficción",
+      "Descripcion": "Star Wars"
+    },
+    {
+      "id": "e439",
+      "Nombre": "Lenguaje",
+      "Descripcion": "Pepe"
+    }
+  ],
+  "users": [
+    {
+      "id": "d371",
+      "name": "Your Name",
+      "email": "test@riwi.io",
+      "password": "riwi2024"
+    }
+  ]
+}
